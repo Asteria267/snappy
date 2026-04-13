@@ -50,5 +50,6 @@ It provides a clear scene description, detects objects, and overlays simple visu
 ```bash
 pip install opencv-python pillow ollama
 
-day 12. done!🐋
+
+#day 12. done!🐋
 
