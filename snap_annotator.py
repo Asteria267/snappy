@@ -1,6 +1,6 @@
 """
 ================================================================================
-  SnapAnnotator — Day 12  Enhanced Edition  🐋
+  SnapAnnotator — Day 12  
 ================================================================================
   SPACE   — capture & analyse
   A       — toggle auto-capture (captures every 5 s automatically)
