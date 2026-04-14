@@ -1,5 +1,5 @@
 """
-SnapAnnotator  —  Day 12  Enhanced Edition
+SnapAnnotator  —  Day 12
 ===========================================
 SPACE  — capture & analyse
 1–9    — query object by number (faster than clicking)
